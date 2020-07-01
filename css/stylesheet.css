@@ -1,0 +1,57 @@
+/*mulai bagian Budy Haryono*/
+
+* {
+	box-sizing: border-box;
+}
+
+.contact-form {
+	background-color: #f7f7f7;
+	height: 570px;
+}
+
+
+.message-form {
+	float: right;
+	padding: 70px 250px 0px 0px;
+}
+
+.message-form p {
+	margin: 0px;
+}
+
+.text-content {
+	float: left;
+	width: 50%;
+	padding: 130px 0px 0px 250px;
+}
+
+.text-content h2{
+	font-size: 35px;
+	margin-bottom: 5px;
+}
+
+.text-content h3{
+	font-weight: normal;
+	font-size: 20px;
+	margin-top: 5px;
+}
+
+.text-content p {
+	margin-top: 35px;
+}
+
+input, textarea {
+	padding: 20px;
+	margin-bottom: 30px;
+	border: 1px solid #dee7ec;
+	width: 285px;
+	margin-top: 10px;
+	font-size: 18px;
+}
+
+.contact-submit {
+	color: #6F95AC;
+	background-color: #dee7ec;
+}
+
+/*Akhir bagian Budy Haryono*/
